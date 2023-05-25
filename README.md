@@ -1,1 +1,1 @@
-# Aplicacion_movil_con_Vision_computacional_para_ejercicios
+En este repocitorio se encuentra el codigo para la deteccion de errores en los movimientos, de peso muerto, sentadilla de 90° y sentadilla profunda, para la interfaz grafica de este archivo se utilizo la libreria flet. Ademas en este repositorio se cuenta con los sonidos de alerta que indican si el ejercicio se ejecuto mal, se ejecuto bien o si ya se realizo correctamente la repeticion del ejercicio.
